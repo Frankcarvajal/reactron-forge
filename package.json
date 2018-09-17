@@ -2,7 +2,7 @@
   "name": "reactron-forge",
   "productName": "reactron-forge",
   "version": "1.0.0",
-  "description": "My Electron application description",
+  "description": "☠️ Barebones Electron Desktop App using React ",
   "main": "src/index.js",
   "scripts": {
     "start": "electron-forge start",
@@ -12,7 +12,7 @@
     "lint": "eslint --cache --color --ext .jsx,.js src"
   },
   "keywords": [],
-  "author": "Zion",
+  "author": "Franklin Carvajal",
   "license": "MIT",
   "config": {
     "forge": {
